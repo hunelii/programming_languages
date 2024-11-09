@@ -1,0 +1,8 @@
+Visual debugger, tracing the code visually
+https://pythontutor.com/ has a built in tracing system for python, java, c, c++ and javascript.
+
+python: https://pythontutor.com/python-compiler.html#mode=edit
+java: https://pythontutor.com/java.html#mode=edit
+c: https://pythontutor.com/c.html#mode=edit
+c++: https://pythontutor.com/cpp.html#mode=edit
+javascript: https://pythontutor.com/javascript.html#mode=edit
